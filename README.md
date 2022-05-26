@@ -1,6 +1,8 @@
 # **Awesome Remix** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack)
+## Learn Remix
+- [Learn Remix - learnwithjason.dev](https://www.learnwithjason.dev/let-s-learn-remix)
 
 ## Remix Starter
 - [remix-worker-template](https://github.com/edmundhung/remix-worker-template) - [demo](https://template.remix-run.workers.dev)
