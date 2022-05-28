@@ -28,12 +28,16 @@
 - [How to build a Remix website with Sanity.io and live preview](https://www.sanity.io/guides/remix-run-live-preview)
 - [Render, Remix, and Strapi:Let's Build a Productivity Tips App](https://render.com/blog/strapiconf-workshop)
 - [Creating a website with Remix Run and dotCMS](https://www.dotcms.com/blog/post/creating-a-website-with-remix-run-and-dotcms)
+- [Remix JS: Create a Server-Side Rendered App](https://blog.bitsrc.io/create-a-server-side-rendered-app-using-remix-js-b937b5a8fec6)
 
 ## deploy remix
 - [deploy with Netlify](https://www.netlify.com/blog/how-to-deploy-remix-apps-on-netlify/)
 - [Deploy with Vercel](https://vercel.com/guides/deploying-remix-with-vercel)
 - [Deploy with fly](https://fly.io/docs/getting-started/remix/)
+- [Deploy with fly](https://reactjsexample.com/the-remix-blog-stack-for-deploying-to-fly-with-mdx-sqlite-testing-linting-formatting-etc/)
 - [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/remix/)
+- [Deploy on Cloudflare Workers](https://edmund.dev/articles/deploying-remix-app-on-cloudflare-workers)
+- [Supporting Remix with full stack Cloudflare Pages](https://blog.cloudflare.com/remix-on-cloudflare-pages/)
 - [Deploy with Render](https://render.com/blog/strapiconf-workshop)
 
 ## miscellaneous
@@ -50,3 +54,7 @@
 ## articles
 - [Introduction to Remix](https://www.thisdot.co/blog/introduction-to-remix)
 - [Remix vs. Next.js: A Detailed Comparison](https://blog.bitsrc.io/remix-vs-next-js-a-detailed-comparison-6ff557f7b41f)
+- [Super Simple Start to Remix](https://kentcdodds.com/blog/super-simple-start-to-remix)
+
+## Blog
+- [Kent C. Dodds](https://kentcdodds.com/blog?q=remix)
