@@ -58,3 +58,6 @@
 
 ## Blog
 - [Kent C. Dodds](https://kentcdodds.com/blog?q=remix)
+
+## Build with Remix
+- [NBA Remix](https://github.com/willianjusten/nba-remix) - [website](https://nba.willianjusten.com.br/)
