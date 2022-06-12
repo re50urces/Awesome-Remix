@@ -17,6 +17,7 @@
 - [chakra-remix-stack-blues](https://github.com/anubra266/chakra-remix-stack-blues)
 - [eurodance-stack](https://github.com/VulcanJS/eurodance-stack)
 - [remix-starter](https://github.com/AnandChowdhary/remix-starter) - [demo](https://remix-starter.netlify.app/)
+- [french-house-stact](https://github.com/janhesters/french-house-stack)
 
 ## Remix Commerce Starter
 - [Product Storytelling Using Remix Run](https://github.com/CrystallizeAPI/product-storytelling-examples) - [demo](https://dounot.milliseconds.live/) - [article](https://crystallize.com/learn/open-source/boilerplates/remix-boilerplate)
