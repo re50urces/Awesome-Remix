@@ -18,14 +18,21 @@
 - [eurodance-stack](https://github.com/VulcanJS/eurodance-stack)
 - [remix-starter](https://github.com/AnandChowdhary/remix-starter) - [demo](https://remix-starter.netlify.app/)
 - [french-house-stact](https://github.com/janhesters/french-house-stack)
-- [Rewinds — Remix Tailwind Starter Kit](https://github.com/mhaidarhanif/rewinds) - [demo](https://rewinds.mhaidarhanif.com/)
 - [remix-tailwind-starter](https://github.com/mcansh/remix-tailwind-starter) - [demo](https://remix.mcan.sh/)
 - [remix-cloudflare-workers-starterkit](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [remix-tailwind-boilerplate](https://github.com/ikhwanudin/remix-tailwind-boilerplate)
 
+
+## Remix Boilerplate
+- [Rewinds — Remix Tailwind Starter Kit](https://github.com/mhaidarhanif/rewinds) - [demo](https://rewinds.mhaidarhanif.com/)
+- [boilerplate-remix](https://github.com/NoQuarterTeam/boilerplate-remix) -[demo](https://boilerplate-remix.noquarter.co/)
+
 ## Remix Commerce Starter
 - [Product Storytelling Using Remix Run](https://github.com/CrystallizeAPI/product-storytelling-examples) - [demo](https://dounot.milliseconds.live/) - [article](https://crystallize.com/learn/open-source/boilerplates/remix-boilerplate)
 - [Furniture v2 Boilerplate on top of Remix](https://github.com/CrystallizeAPI/furniture-remix)
+
+## Remix Cloudflare
+- [remix-cloudflare-demo](https://github.com/jacob-ebey/remix-cloudflare-demo) - [demo](https://remix-cloudflare-demo.jacob-ebey.workers.dev/)
 
 
 ## Build App
@@ -46,8 +53,12 @@
 - [Supporting Remix with full stack Cloudflare Pages](https://blog.cloudflare.com/remix-on-cloudflare-pages/)
 - [Deploy with Render](https://render.com/blog/strapiconf-workshop)
 
+## plugin
+- [remix-i18next](https://github.com/sergiodxa/remix-i18next) `The easiest way to translate your Remix apps`
+
 ## miscellaneous
 - [Remix Guide](https://remix.guide) `Sharing everything about Remix`
+- [remix-utils](https://github.com/sergiodxa/remix-utils) `A set of utility functions and types to use with Remix.run`
 
 ## Twitter Account
 > Some accounts where you can find different kinds of content related to Remix.
