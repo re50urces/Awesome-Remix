@@ -55,6 +55,7 @@
 
 ## plugin
 - [remix-i18next](https://github.com/sergiodxa/remix-i18next) `The easiest way to translate your Remix apps`
+- [Remix Auth](https://github.com/sergiodxa/remix-auth) `Simple Authentication for Remix`
 
 ## miscellaneous
 - [Remix Guide](https://remix.guide) `Sharing everything about Remix`
@@ -78,3 +79,6 @@
 
 ## Build with Remix
 - [NBA Remix](https://github.com/willianjusten/nba-remix) - [website](https://nba.willianjusten.com.br/)
+- [JSON Hero](https://github.com/jsonhero-io/jsonhero-web) - [website](https://jsonhero.io/)
+- [github repo](https://github.com/danestves/danestves.com) - [website](https://danestves.com/)
+- [GitHub repo](https://github.com/edmundhung/blog) - [website](https://edmund.dev/)
