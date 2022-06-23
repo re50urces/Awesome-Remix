@@ -82,3 +82,5 @@
 - [JSON Hero](https://github.com/jsonhero-io/jsonhero-web) - [website](https://jsonhero.io/)
 - [github repo](https://github.com/danestves/danestves.com) - [website](https://danestves.com/)
 - [GitHub repo](https://github.com/edmundhung/blog) - [website](https://edmund.dev/)
+- [hackletter](https://github.com/aravindballa/hackletter) - [website](https://hackletter.email/)
+- [remix guide](https://github.com/edmundhung/remix-guide) - [website](https://remix.guide/discover)
