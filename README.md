@@ -21,11 +21,17 @@
 - [remix-tailwind-starter](https://github.com/mcansh/remix-tailwind-starter) - [demo](https://remix.mcan.sh/)
 - [remix-cloudflare-workers-starterkit](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [remix-tailwind-boilerplate](https://github.com/ikhwanudin/remix-tailwind-boilerplate)
+- [remix-auth-strategy-template](https://github.com/sergiodxa/remix-auth-strategy-template) `A template for creating a new Remix Auth strategy.`
+- [remix-cloudflare-prisma](https://github.com/jacobparis/remix-cloudflare-prisma) `An example of prisma working on cloudflare pages with Remix`
+- [remix-react-18-streaming](https://github.com/jacob-ebey/remix-react-18-streaming) -[demo](https://remix-react-18-streaming-production.up.railway.app/)
 
 
 ## Remix Boilerplate
 - [Rewinds — Remix Tailwind Starter Kit](https://github.com/mhaidarhanif/rewinds) - [demo](https://rewinds.mhaidarhanif.com/)
 - [boilerplate-remix](https://github.com/NoQuarterTeam/boilerplate-remix) -[demo](https://boilerplate-remix.noquarter.co/)
+- [remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - [demo](https://remix-ecommerce.fly.dev/)
+- [Headless commerce with Remix + Vendure](https://github.com/vendure-ecommerce/remix-ecommerce) - [demo](https://remix-vendure.netlify.app/)
+- [storefront-remix-starter](https://github.com/vendure-ecommerce/storefront-remix-starter) - [demo](https://remix-storefront.vendure.io/)
 
 ## Remix Commerce Starter
 - [Product Storytelling Using Remix Run](https://github.com/CrystallizeAPI/product-storytelling-examples) - [demo](https://dounot.milliseconds.live/) - [article](https://crystallize.com/learn/open-source/boilerplates/remix-boilerplate)
@@ -60,6 +66,10 @@
 ## miscellaneous
 - [Remix Guide](https://remix.guide) `Sharing everything about Remix`
 - [remix-utils](https://github.com/sergiodxa/remix-utils) `A set of utility functions and types to use with Remix.run`
+- [remix-domains](https://github.com/SeasonedSoftware/remix-domains) `Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.`
+- [remix-inspector](https://github.com/sergiodxa/remix-inspector) `Remix devtools to inspect your route data.`
+- [remix-auth-socials](https://github.com/TheRealFlyingCoder/remix-auth-socials) `A collection of social media strategies for remix-auth`
+- [remix-middleware](https://github.com/neurosnap/remix-middleware) `express-like middleware system for your remix loaders and actions`
 
 ## Twitter Account
 > Some accounts where you can find different kinds of content related to Remix.
