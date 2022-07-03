@@ -24,6 +24,7 @@
 - [remix-auth-strategy-template](https://github.com/sergiodxa/remix-auth-strategy-template) `A template for creating a new Remix Auth strategy.`
 - [remix-cloudflare-prisma](https://github.com/jacobparis/remix-cloudflare-prisma) `An example of prisma working on cloudflare pages with Remix`
 - [remix-react-18-streaming](https://github.com/jacob-ebey/remix-react-18-streaming) -[demo](https://remix-react-18-streaming-production.up.railway.app/)
+- [remix-sentry](https://github.com/jacob-ebey/remix-sentry) `Example showing using Sentry with Remix`
 
 
 ## Remix Boilerplate
@@ -62,6 +63,8 @@
 ## plugin
 - [remix-i18next](https://github.com/sergiodxa/remix-i18next) `The easiest way to translate your Remix apps`
 - [Remix Auth](https://github.com/sergiodxa/remix-auth) `Simple Authentication for Remix`
+- [remix-crash](https://github.com/xstevenyung/remix-crash) `Get better insight on why your Remix app crashed during development boom`
+- [remix-pwa](https://github.com/ShafSpecs/remix-pwa) `A lightweight, standalone package to integrate full PWA features into Remix`
 
 ## miscellaneous
 - [Remix Guide](https://remix.guide) `Sharing everything about Remix`
@@ -70,6 +73,11 @@
 - [remix-inspector](https://github.com/sergiodxa/remix-inspector) `Remix devtools to inspect your route data.`
 - [remix-auth-socials](https://github.com/TheRealFlyingCoder/remix-auth-socials) `A collection of social media strategies for remix-auth`
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) `express-like middleware system for your remix loaders and actions`
+- [remix-deno](https://github.com/jacob-ebey/remix-deno) `A Deno runtime for https://remix.run that doesn't require a build step`
+- [remix-params-helper](https://github.com/kiliman/remix-params-helper) `This package makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.`
+- [rmx-cli](https://github.com/kiliman/rmx-cli) `A CLI tool for Remix applications`
+- [remix-component-data](https://github.com/kiliman/remix-component-data) `This is a proof of concept for showing how you can expose loader functions from your components to use in your routes.`
+- [remix-flat-routes](https://github.com/kiliman/remix-flat-routes) `Remix package to define routes using the flat-routes convention`
 
 ## Twitter Account
 > Some accounts where you can find different kinds of content related to Remix.
