@@ -78,6 +78,7 @@
 - [rmx-cli](https://github.com/kiliman/rmx-cli) `A CLI tool for Remix applications`
 - [remix-component-data](https://github.com/kiliman/remix-component-data) `This is a proof of concept for showing how you can expose loader functions from your components to use in your routes.`
 - [remix-flat-routes](https://github.com/kiliman/remix-flat-routes) `Remix package to define routes using the flat-routes convention`
+- [remix-typedjson](https://github.com/kiliman/remix-typedjson] `This package is a replacement for superjson to use in your Remix app. It handles a subset of types that "superjson" supports, but is faster and smaller.`
 
 ## Twitter Account
 > Some accounts where you can find different kinds of content related to Remix.
