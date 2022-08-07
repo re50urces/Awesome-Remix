@@ -25,6 +25,7 @@
 - [remix-cloudflare-prisma](https://github.com/jacobparis/remix-cloudflare-prisma) `An example of prisma working on cloudflare pages with Remix`
 - [remix-react-18-streaming](https://github.com/jacob-ebey/remix-react-18-streaming) -[demo](https://remix-react-18-streaming-production.up.railway.app/)
 - [remix-sentry](https://github.com/jacob-ebey/remix-sentry) `Example showing using Sentry with Remix`
+- [mixtarter-chakra](https://github.com/sozonome/mixtarter-chakra) - [demo](https://mixtarter-chakra.sznm.dev/)
 
 
 ## Remix Boilerplate
